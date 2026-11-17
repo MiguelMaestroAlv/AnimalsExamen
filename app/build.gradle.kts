@@ -64,4 +64,7 @@ dependencies {
 
     // ViewModel en Compose
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
+
+    // Íconos de Material (Pets, Public, ArrowBack, etc.)
+    implementation("androidx.compose.material:material-icons-extended:1.7.5")
 }
